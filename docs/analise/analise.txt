@@ -1,0 +1,16 @@
+Análise de riscos em TI
+Os ataques citados acima só tendem a aumentar e, com isso, não basta mais as empresas se preocuparem apenas com firewalls e sistemas anti-vírus. É preciso criar uma cultura de proatividade em busca das melhores tecnologias e técnicas para manter os seus dados e os de seus clientes a salvo de pessoas mal-intencionadas.
+
+A análise de riscos é uma técnica de levantamento de informações acerca de processos e sistemas utilizados na empresa de modo a melhorar a governança de ativos de TI em relação às vulnerabilidades que podem ser encontradas, verificando a probabilidade de ocorrência de determinados eventos e as consequências que eles podem trazer para a empresa.
+
+
+
+
+
+
+
+
+
+
+
+
